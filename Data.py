@@ -51,7 +51,7 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/mikeel-ye/Memeklu'</a>
+ • Source Code: <a href='https://github.com/mikeel-ye/Memeklu'>File Sharing</a>
 
 👨‍💻 Develoved by </b><a href='https://t.me/jajanandaren/4'>@Darenrorr</a>
 """
